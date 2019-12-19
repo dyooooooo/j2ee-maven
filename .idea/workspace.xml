@@ -7,24 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62786717-14be-4f79-95f8-64ffa03e600a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/HelloServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/j2ee-maven.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/j2ee-maven/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/j2ee-maven/WEB-INF/classes/HelloServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/j2ee-maven/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/j2ee-maven/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,12 +166,24 @@
       <workItem from="1576766155155" duration="2310000" />
       <workItem from="1576768503324" duration="37000" />
       <workItem from="1576768992660" duration="143000" />
-      <workItem from="1576770725581" duration="262000" />
+      <workItem from="1576770725581" duration="513000" />
     </task>
+    <task id="LOCAL-00001" summary="first time">
+      <created>1576771201485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576771201485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first time" />
+    <option name="LAST_COMMIT_MESSAGE" value="first time" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2956" y="256" key="#HTTP_Proxy" timestamp="1576766490666">
@@ -203,10 +198,10 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="3090" y="364" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1576766325847" />
-    <state x="1010" y="174" key="CommitChangelistDialog2" timestamp="1576771090245">
+    <state x="1010" y="174" key="CommitChangelistDialog2" timestamp="1576771200710">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1010" y="174" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1576771090245" />
+    <state x="1010" y="174" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1576771200710" />
     <state x="1223" y="321" key="FileChooserDialogImpl" timestamp="1576770874885">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
